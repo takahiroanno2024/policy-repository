@@ -13,8 +13,6 @@
 ## コントリビュートについて
 * また、プロジェクトへのコントリビュートの際には、[コントリビューターライセンス契約（CLA）](https://github.com/takahiroanno2024/policy-repository/blob/main/CLA.md)への同意が必須となります。ご了承ください。
 
-[test link](../../CLA.md)
-
 ---
 ---
 
